@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pre-doctoral Research Associate. <a href='#'>Columbia University</a>.
+subtitle: Pre-doctoral Research Associate. <a href='https://bfi.uchicago.edu/scholar/taha-barwahwala/'>Columbia University</a>.
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a second-year pre-doctoral research associate for [Professor Eric Verhoogen](http://www.columbia.edu/~ev2124/) at the School of International and Public Affairs, `Columbia University`.🏛🏫 I studied Physics and Mathematics at the `Indian Institute of Technology Guwahati`.🇮🇳
+I'm a second-year pre-doctoral research associate for [Professor Eric Verhoogen](http://www.columbia.edu/~ev2124/) at the School of International and Public Affairs, `Columbia University`.🏛 I studied Physics and Mathematics at the `Indian Institute of Technology Guwahati`.🇮🇳
 
-I've studied the adoption and effects of predictive technologies in state and private institutions in a developing country with my stints at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia) and one of India's largest private sector retail banks.📈 I think about the drivers of `learning` in the absence of reliable feedback and an ever-changing policy and technology environment through the lens of `development economics` and `public finance`.📝
+I've studied the adoption and effects of predictive technologies in state and private institutions in a developing country with my stints at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia) and one of India's largest private sector retail banks.📈 I think about the drivers of `learning` in the absence of reliable feedback and in an ever-changing policy and technology environment - through the lens of `development economics` and `public finance`.📝
 
-I've been up to some [stuff](https://bktaha.github.io/assets/pdf/ResumeWorded-EH4.pdf). I also have a newfound interest in baseball and D&D and a longtime fascination with movies and cycling. Thank God for New York City.🗽
+I've been up to some [stuff](https://bktaha.github.io/assets/pdf/ResumeWorded-EH4.pdf). I also have a newfound interest in baseball and [D&D](https://www.youtube.com/shorts/OP03XyK-pTc) and a longtime fascination with [movies](https://letterboxd.com/tahakb/) and cycling. Thank God for New York City.🗽
